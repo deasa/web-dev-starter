@@ -4,3 +4,5 @@ let price = 49.99
     discounted = false;
 
 showMessage(name);
+
+changePercentOff(99);
